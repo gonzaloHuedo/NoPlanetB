@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoPlanetB</string>
+    <string name="leave">Leave</string>
+    <string name="stay">Stay</string>
+    <string name="title">And no next Generation...</string>
+    <string name="login">Login</string>
+</resources>
